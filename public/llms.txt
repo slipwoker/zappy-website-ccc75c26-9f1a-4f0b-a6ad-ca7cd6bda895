@@ -1,0 +1,55 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+גלי עולם שלם של חרוזי גיהוץ, צעצועים יצירתיים וערכות DIY לכל המשפחה. חנות Beads Shop מציעה מגוון עשיר, משלוחים מהירים וחווית קנייה נעימה. הזמיני עכשיו!
+
+### Inspiration
+https://example.com/inspiration
+מחפשת השראה לפרויקט הבא? דפי ההשראה שלנו מלאים ברעיונות לעיצובים עם חרוזי גיהוץ, פרויקטי DIY למשפחה ועוד. צרי, גלי ותני לצבעים לדבר. השראה מחכה לך!
+
+### Contact
+https://example.com/contact
+יש שאלה על מוצר, הזמנה או משלוח? רוני קידר זמינה לענות לך בוואטסאפ במהירות ובאהבה. צרי קשר עכשיו וקבלי שירות אישי חם מחנות Beads Shop. אנחנו כאן בשבילך!
+
+### Products
+https://example.com/products
+המוצרים שלנו - Beads Shop
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Beads Shop
+
+### Category
+https://example.com/category/:slug
+מוצרים - Beads Shop
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
